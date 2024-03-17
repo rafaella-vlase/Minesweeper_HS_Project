@@ -1,0 +1,8 @@
+C:\Users\Rafaella\onedrive\documente\visual studio 2010\Projects\03.04\03.04\obj\x86\Debug\mine.Form1.resources
+C:\Users\Rafaella\onedrive\documente\visual studio 2010\Projects\03.04\03.04\obj\x86\Debug\_03._04.Properties.Resources.resources
+C:\Users\Rafaella\onedrive\documente\visual studio 2010\Projects\03.04\03.04\obj\x86\Debug\mine.csproj.GenerateResource.Cache
+C:\Users\Rafaella\OneDrive\Documente\Visual Studio 2010\Projects\03.04\03.04\obj\x86\Debug\mine.csprojResolveAssemblyReference.cache
+C:\Users\Rafaella\OneDrive\Documente\Visual Studio 2010\Projects\03.04\03.04\bin\Debug\03.04.exe
+C:\Users\Rafaella\OneDrive\Documente\Visual Studio 2010\Projects\03.04\03.04\bin\Debug\03.04.pdb
+C:\Users\Rafaella\OneDrive\Documente\Visual Studio 2010\Projects\03.04\03.04\obj\x86\Debug\03.04.exe
+C:\Users\Rafaella\OneDrive\Documente\Visual Studio 2010\Projects\03.04\03.04\obj\x86\Debug\03.04.pdb
